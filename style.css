@@ -10,7 +10,7 @@
         
     }
     .navbar-gradient {
-        background-image: linear-gradient(to right, goldenrod, white);
+        background: linear-gradient(to right, goldenrod, white);
      }
      h2{
         text-align: center;
